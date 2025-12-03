@@ -1,0 +1,135 @@
+[
+    
+	{
+		"id": 10,
+		"title": "Festival de Jazz",
+		"description": "Músicos nacionales e internacionales en vivo.",
+		"imageUrl": "https://images.unsplash.com/photo-1511671782779-c97d3d27a1d4",
+		"startDate": "2025-12-15T18:00:00Z",
+		"endDate": "2025-12-15T23:00:00Z",
+		"location": "Foro Sol, CDMX",
+		"type": "CONCERT",
+		"status": "ACTIVE",
+		"tags": ["jazz", "festival", "música"]
+	},
+	{
+		"id": 11,
+		"title": "Exposición Fotográfica",
+		"description": "Colección de fotografías de paisajes urbanos y naturales.",
+		"imageUrl": "https://images.unsplash.com/photo-1519125323398-675f0ddb6308",
+		"startDate": "2025-12-20T10:00:00Z",
+		"endDate": "2025-12-25T18:00:00Z",
+		"location": "Galería Central, Querétaro",
+		"type": "EXHIBITION",
+		"status": "ACTIVE",
+		"tags": ["fotografía", "exposición", "paisaje"]
+	},
+	{
+		"id": 12,
+		"title": "Obra de Teatro Infantil",
+		"description": "Espectáculo para toda la familia con actores y marionetas.",
+		"imageUrl": "https://images.unsplash.com/photo-1506744038136-46273834b3fb",
+		"startDate": "2025-12-27T17:00:00Z",
+		"endDate": "2025-12-27T18:30:00Z",
+		"location": "Teatro de la Ciudad, Oaxaca",
+		"type": "THEATER",
+		"status": "ACTIVE",
+		"tags": ["infantil", "teatro", "familia"]
+	},
+	{
+		"id": 13,
+		"title": "Ciclo de Cine Documental",
+		"description": "Proyección de documentales sobre medio ambiente y sociedad.",
+		"imageUrl": "https://images.unsplash.com/photo-1465101178521-c1a4c8a0a8b7",
+		"startDate": "2026-01-03T19:00:00Z",
+		"endDate": "2026-01-03T22:00:00Z",
+		"location": "Cineteca Nacional, CDMX",
+		"type": "CINEMA",
+		"status": "ACTIVE",
+		"tags": ["documental", "cine", "medio ambiente"]
+	},
+	{
+		"id": 14,
+		"title": "Feria de Diseño Mexicano",
+		"description": "Exposición y venta de productos de diseñadores mexicanos.",
+		"imageUrl": "https://images.unsplash.com/photo-1515378791036-0648a3ef77b2",
+		"startDate": "2026-01-10T09:00:00Z",
+		"endDate": "2026-01-12T20:00:00Z",
+		"location": "Expo Reforma, CDMX",
+		"type": "FAIR",
+		"status": "ACTIVE",
+		"tags": ["diseño", "feria", "mexicano"]
+	},
+	{
+		"id": 15,
+		"title": "Concierto de Rock",
+		"description": "Bandas emergentes y consagradas en un solo escenario.",
+		"imageUrl": "https://images.unsplash.com/photo-1511671782779-c97d3d27a1d4",
+		"startDate": "2026-01-15T18:00:00Z",
+		"endDate": "2026-01-15T23:00:00Z",
+		"location": "Estadio Jalisco, Guadalajara",
+		"type": "CONCERT",
+		"status": "ACTIVE",
+		"tags": ["rock", "concierto", "bandas"]
+	},
+	{
+		"id": 16,
+		"title": "Taller de Escritura Creativa",
+		"description": "Desarrolla tus habilidades narrativas con escritores reconocidos.",
+		"imageUrl": "https://images.unsplash.com/photo-1515378791036-0648a3ef77b2",
+		"startDate": "2026-01-20T15:00:00Z",
+		"endDate": "2026-01-20T18:00:00Z",
+		"location": "Casa de Cultura, Toluca",
+		"type": "WORKSHOP",
+		"status": "ACTIVE",
+		"tags": ["escritura", "taller", "creativo"]
+	},
+	{
+		"id": 17,
+		"title": "Conferencia de Historia",
+		"description": "Expertos analizan los acontecimientos más relevantes del siglo XX.",
+		"imageUrl": "https://images.unsplash.com/photo-1465101046530-73398c7f28ca",
+		"startDate": "2026-01-25T09:00:00Z",
+		"endDate": "2026-01-25T13:00:00Z",
+		"location": "Universidad Autónoma, CDMX",
+		"type": "CONFERENCE",
+		"status": "ACTIVE",
+		"tags": ["historia", "conferencia", "siglo XX"]
+	},
+	{
+		"id": 18,
+		"title": "Festival de Danza Folklórica",
+		"description": "Grupos de danza presentan bailes típicos de México.",
+		"imageUrl": "https://images.unsplash.com/photo-1504674900247-0877df9cc836",
+		"startDate": "2026-02-01T18:00:00Z",
+		"endDate": "2026-02-01T21:00:00Z",
+		"location": "Plaza de la Constitución, CDMX",
+		"type": "CONCERT",
+		"status": "ACTIVE",
+		"tags": ["danza", "folklore", "festival"]
+	},
+	{
+		"id": 19,
+		"title": "Exposición de Escultura",
+		"description": "Muestra de esculturas de artistas nacionales.",
+		"imageUrl": "https://images.unsplash.com/photo-1465101046530-73398c7f28ca",
+		"startDate": "2026-02-05T10:00:00Z",
+		"endDate": "2026-02-10T18:00:00Z",
+		"location": "Museo de Escultura, Monterrey",
+		"type": "EXHIBITION",
+		"status": "ACTIVE",
+		"tags": ["escultura", "exposición", "arte"]
+	},
+	{
+		"id": 20,
+		"title": "Ciclo de Cine Mexicano",
+		"description": "Proyección de películas mexicanas clásicas y contemporáneas.",
+		"imageUrl": "https://images.unsplash.com/photo-1506744038136-46273834b3fb",
+		"startDate": "2026-02-15T19:00:00Z",
+		"endDate": "2026-02-15T22:00:00Z",
+		"location": "Cineteca Nacional, CDMX",
+		"type": "CINEMA",
+		"status": "ACTIVE",
+		"tags": ["cine", "mexicano", "ciclo"]
+	}
+]

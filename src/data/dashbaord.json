@@ -1,0 +1,110 @@
+[
+	{
+		"id": 1,
+		"title": "Festival de Música Urbana",
+		"description": "Un evento con los mejores exponentes de la música urbana.",
+		"imageUrl": "https://images.unsplash.com/photo-1511671782779-c97d3d27a1d4",
+		"startDate": "2025-11-01T18:00:00Z",
+		"endDate": "2025-11-01T23:00:00Z",
+		"location": "Auditorio Nacional, CDMX",
+		"type": "CONCERT",
+		"status": "ACTIVE",
+		"tags": ["música", "urbano", "festival"]
+	},
+	{
+		"id": 2,
+		"title": "Exposición de Arte Moderno",
+		"description": "Obras de artistas contemporáneos nacionales e internacionales.",
+		"imageUrl": "https://images.unsplash.com/photo-1465101046530-73398c7f28ca",
+		"startDate": "2025-11-05T10:00:00Z",
+		"endDate": "2025-11-10T18:00:00Z",
+		"location": "Museo de Arte Moderno, CDMX",
+		"type": "EXHIBITION",
+		"status": "ACTIVE",
+		"tags": ["arte", "moderno", "exposición"]
+	},
+	{
+		"id": 3,
+		"title": "Teatro Clásico: Hamlet",
+		"description": "Presentación especial de Hamlet por la compañía nacional de teatro.",
+		"imageUrl": "https://images.unsplash.com/photo-1506744038136-46273834b3fb",
+		"startDate": "2025-11-12T20:00:00Z",
+		"endDate": "2025-11-12T22:30:00Z",
+		"location": "Teatro Principal, Puebla",
+		"type": "THEATER",
+		"status": "ACTIVE",
+		"tags": ["teatro", "clásico", "Hamlet"]
+	},
+	{
+		"id": 4,
+		"title": "Cine al Aire Libre",
+		"description": "Proyección de películas independientes bajo las estrellas.",
+		"imageUrl": "https://imagenes.elpais.com/resizer/v2/RH23YIU6VBCQFDFUGG2JZHBHSM.png?auth=a9cadef2ee7bcef8638e9d8533d291e325bbcc7dfbd5c2088674d75f3f0f092f&width=1200",
+		"startDate": "2025-11-15T19:00:00Z",
+		"endDate": "2025-11-15T22:00:00Z",
+		"location": "Parque Fundidora, Monterrey",
+		"type": "CINEMA",
+		"status": "ACTIVE",
+		"tags": ["cine", "aire libre", "independiente"]
+	},
+	{
+		"id": 5,
+		"title": "Feria del Libro",
+		"description": "Encuentro de editoriales y autores con presentaciones y firmas de libros.",
+		"imageUrl": "https://images.unsplash.com/photo-1515378791036-0648a3ef77b2",
+		"startDate": "2025-11-20T09:00:00Z",
+		"endDate": "2025-11-25T20:00:00Z",
+		"location": "Centro de Convenciones, Guadalajara",
+		"type": "FAIR",
+		"status": "ACTIVE",
+		"tags": ["libros", "feria", "autores"]
+	},
+	{
+		"id": 6,
+		"title": "Concierto Sinfónico",
+		"description": "La orquesta filarmónica interpreta piezas clásicas y modernas.",
+		"imageUrl": "https://images.unsplash.com/photo-1465101046530-73398c7f28ca",
+		"startDate": "2025-11-28T20:00:00Z",
+		"endDate": "2025-11-28T22:00:00Z",
+		"location": "Sala Nezahualcóyotl, CDMX",
+		"type": "CONCERT",
+		"status": "ACTIVE",
+		"tags": ["sinfónico", "orquesta", "música"]
+	},
+	{
+		"id": 7,
+		"title": "Festival Gastronómico",
+		"description": "Degustación de platillos típicos y cocina internacional.",
+		"imageUrl": "https://images.unsplash.com/photo-1504674900247-0877df9cc836",
+		"startDate": "2025-12-01T12:00:00Z",
+		"endDate": "2025-12-03T22:00:00Z",
+		"location": "Plaza Mayor, León",
+		"type": "FAIR",
+		"status": "ACTIVE",
+		"tags": ["gastronomía", "festival", "comida"]
+	},
+	{
+		"id": 8,
+		"title": "Taller de Fotografía",
+		"description": "Aprende técnicas de fotografía profesional con expertos.",
+		"imageUrl": "https://images.unsplash.com/photo-1519125323398-675f0ddb6308",
+		"startDate": "2025-12-05T15:00:00Z",
+		"endDate": "2025-12-05T18:00:00Z",
+		"location": "Casa de Cultura, Mérida",
+		"type": "WORKSHOP",
+		"status": "ACTIVE",
+		"tags": ["fotografía", "taller", "arte"]
+	},
+	{
+		"id": 9,
+		"title": "Conferencia de Innovación",
+		"description": "Expertos en tecnología y creatividad comparten sus ideas.",
+		"imageUrl": "https://www.cepal.org/sites/default/files/styles/press_media/public/news/images/gkcwiycxqaebcz5.jpg?itok=694ewtHu",
+		"startDate": "2025-12-10T09:00:00Z",
+		"endDate": "2025-12-10T13:00:00Z",
+		"location": "World Trade Center, CDMX",
+		"type": "CONFERENCE",
+		"status": "ACTIVE",
+		"tags": ["innovación", "tecnología", "conferencia"]
+	}
+]
