@@ -8,6 +8,8 @@ const API_URL = loaderEnv("BACKEND_URL") + "/api/token";
 
 export const getTokenOfInscription = async (idEvent: string): Promise<EventRegistrationTokenResponse> => {
     const token = await getTokenServerAction();
+    console.log(token)
+    console.log("Url to fetch", `${API_URL}/user/me/event/${idEvent}`);
     const res = await fetch(`${API_URL}/user/me/event/${idEvent}`, {
         method: "GET",
         headers: {
@@ -15,7 +17,8 @@ export const getTokenOfInscription = async (idEvent: string): Promise<EventRegis
         }
     });
     if (!res.ok) {
-        console.error("Failed to fetch token of inscription:", res.statusText);
+        const errorData = await res.json();
+        console.error("Failed to fetch token of inscription:", errorData);
         throw new Error("Error fetching token of inscription");
     }
     const data: EventRegistrationTokenResponse = await res.json();

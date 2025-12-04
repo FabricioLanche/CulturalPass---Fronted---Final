@@ -18,8 +18,12 @@ export const register = async (credentials: RegisterRequest) => {
   if (!response.ok) {
     const errorData = await response.json();
     console.error(errorData);
+      console.log("error", errorData);
     throw new Error("Registration failed");
+
   }
+
+
 
   return response.json() as Promise<AuthResponse>;
 };
